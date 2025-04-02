@@ -133,7 +133,7 @@ This project is licensed under the **MIT License**.
 ---
 
 ### 💡 Developed by [Hiomio](https://github.com/Hiomio)
-## Deployed Link
+Deployed Link
 [Click here to view the deployed application](https://hiomio.github.io/Advanced-React-To-do-List/)
 🚀 Happy Coding!
 
