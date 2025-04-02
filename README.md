@@ -43,7 +43,7 @@ The **Advanced React To-Do Application with Weather Integration** is a feature-r
 
 ### 🏠 Home Page
 <p align="center">
-  <img src="./screenshots/Screenshot (52).png
+  <img src="screenshots/Screenshot (52).png
 " alt="Home Page" width="800"/>
 </p>
 
