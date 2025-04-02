@@ -68,7 +68,11 @@ The **Advanced React To-Do Application with Weather Integration** is a feature-r
 
 #### 📱 Mobile View
 <p align="center">
-  <img src="screenshots/desktop.jpeg" alt="Home Page Mobile View" width="400"/>
+  <img src="screenshots/desktop.jpeg" alt="SignIn Page Mobile View" width="400"/>
+</p
+
+  <p align="center">
+  <img src="screenshots/desktop 1.jpeg" alt="Home Page Mobile View" width="400"/>
 </p>
 
 
