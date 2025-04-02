@@ -43,22 +43,28 @@ The **Advanced React To-Do Application with Weather Integration** is a feature-r
 
 ### 🏠 Home Page
 <p align="center">
-  <img src="./screenshots/home-page.png" alt="Home Page" width="800"/>
+  <img src="./screenshots/Screenshot (52).png
+" alt="Home Page" width="800"/>
 </p>
+
 
 ### ➕ Add Task
 <p align="center">
-  <img src="./screenshots/add-task.png" alt="Add Task" width="800"/>
+  <img src="./screenshots/Add Task.png" alt="Add Task" width="800"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/Add Task 2.png" alt="Add Task" width="800"/>
 </p>
 
 ### 🌤️ Weather Integration
 <p align="center">
-  <img src="./screenshots/weather-integration.png" alt="Weather Integration" width="800"/>
+  <img src="./screenshots/Weather API Integration.png" alt="Weather Integration" width="800"/>
 </p>
 
 ### 🔑 User Authentication
 <p align="center">
-  <img src="./screenshots/user-authentication.png" alt="User Authentication" width="800"/>
+  <img src="./screenshots/Signin.png" alt="User Authentication" width="800"/>
 </p>
 
 ---
